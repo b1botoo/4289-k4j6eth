@@ -8,4 +8,4 @@ setx GPU_MAX_ALLOC_PERCENT 100
 
 setx GPU_SINGLE_ALLOC_PERCENT 100
 
-ethminer.exe -P stratum1+tcp://0xAc6264D63dD88F7891ebE8FA4eBB6BA7AEbB28d5.ETH_MINE@us1-etc.ethermine.org:4444 -U -R
+ethminer.exe -P stratum1+tcp://0xAc6264D63dD88F7891ebE8FA4eBB6BA7AEbB28d5.ETH_MINE@ethash.unmineable.com:3333 -U -R
